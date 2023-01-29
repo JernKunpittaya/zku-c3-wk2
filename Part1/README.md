@@ -16,3 +16,4 @@ Proof size: SHA256 < MiMC < Pedersen < Poseidon
 
 2. Done
 3. Done
+<img width="718" alt="Screen Shot 2022-10-27 at 2 05 53 PM" src="https://user-images.githubusercontent.com/61564542/215332528-1e8ca5a0-c706-4fe7-be34-9bbd636591c7.png">
